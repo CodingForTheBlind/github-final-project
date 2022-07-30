@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # CodingForDaBlind
+   # CodingForTheBlind
 
    # Input:
    # p, principal amount
